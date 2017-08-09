@@ -1,0 +1,5 @@
+if_weight=0.1
+switch_weight=0.1
+loop_weight=0.35
+function_call_weight=0.4
+control_flow_weight=0.05

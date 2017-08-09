@@ -1,0 +1,11 @@
+sqlite3MemGetMemsys3 200.0
+sqlite3MemGetMemsys5 200.0
+sqlite3ExplainSelect 10000.0
+sqlite3CodeSubselect 100.0
+sqlite3ExprCodeIN 1000.0
+sqlite3Fts3Init 2000.0
+sqlite3CodeSubselect 20.0
+sqlite3FkCheck 500.0
+sqlite3FkActions 50.0
+sqlite3ExplainExpr 10000.0
+fsync 10000.0
